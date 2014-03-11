@@ -1,0 +1,4 @@
+Installing One-Liner
+=====================
+
+wget https://github.com/kinkerl/sphinx_skeleton/archive/master.zip && unzip -j master.zip
