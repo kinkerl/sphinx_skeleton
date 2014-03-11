@@ -1,0 +1,56 @@
+*.sqlite
+
+*.py[cod]
+*~
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+docs/_build
+docs_cms/_build/
+tests/htmlcov
+*sqlite3
+TODO
+.DS_Store
+
+
+.sonar
+
+*.css
+.sass-cache
+src/adidas/media/
+*kdev4
+
+# Sonar properties
+sonar-project.properties
+.directory
